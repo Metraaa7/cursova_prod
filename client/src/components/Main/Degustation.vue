@@ -134,7 +134,7 @@ export default {
         const response = await axios({
           method: "post",
           withCredentials: false,
-          url: "https://cursova-prod.vercel.app:5000",
+          url: "https://cursova-prod.vercel.app",
           params: {
             name: this.name,
             address: this.address,
