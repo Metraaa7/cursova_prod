@@ -12,7 +12,7 @@ const app = express();
 app.use(express.json());
 
 const corsOptions = {
-    origin: "http://localhost:8080",
+    origin: "https://cursova-prod-client.vercel.app",
     optionSuccessStatus: 200
 };
 
