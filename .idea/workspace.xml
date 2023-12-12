@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94c0bbbf-fa3e-4e4e-834b-327146ab2e9b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2Y5Sn84QlZ5QIle4Xewhi5HjKpH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\PhpStorm 2021.3.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\prj\works\vue_practic_1\server" />
+      <recent name="D:\prj\works\vue_practic_1\src\assets" />
+      <recent name="D:\prj\works\cursova\src\assets" />
+      <recent name="D:\prj\works\cursova\src\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\prj\works\vue_practic_1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm serve">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:8080">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm serve" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-74080bdb84d3-com.jetbrains.php.sharedIndexes-PS-233.11799.232" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94c0bbbf-fa3e-4e4e-834b-327146ab2e9b" name="Changes" comment="" />
+      <created>1699814111403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699814111403</updated>
+      <workItem from="1699814112588" duration="11213000" />
+      <workItem from="1699865479207" duration="6790000" />
+      <workItem from="1699890797748" duration="21132000" />
+      <workItem from="1699946408535" duration="1717000" />
+      <workItem from="1699949743530" duration="139000" />
+      <workItem from="1699969010927" duration="133000" />
+      <workItem from="1700127671390" duration="960000" />
+      <workItem from="1700138674840" duration="131000" />
+      <workItem from="1700562267079" duration="5762000" />
+      <workItem from="1700647910345" duration="599000" />
+      <workItem from="1700675013184" duration="1342000" />
+      <workItem from="1700736103449" duration="3000" />
+      <workItem from="1701013758113" duration="2164000" />
+      <workItem from="1701108506816" duration="14000" />
+      <workItem from="1701369576810" duration="14841000" />
+      <workItem from="1701426126133" duration="1380000" />
+      <workItem from="1701433030834" duration="388000" />
+      <workItem from="1701460604879" duration="1000" />
+      <workItem from="1701901882055" duration="73000" />
+      <workItem from="1701901967517" duration="1726000" />
+      <workItem from="1701945300051" duration="827000" />
+      <workItem from="1701948098063" duration="357000" />
+      <workItem from="1702306760500" duration="791000" />
+      <workItem from="1702316580377" duration="238000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
