@@ -131,11 +131,16 @@ export default {
     async submitForm() {
       if (this.validateForm()) {
         //const data = {name: this.name, address: this.address, number: this.number};
-        const response = await axios.post("https://cursova-prod.vercel.app", {
-          name: this.name,
-          address: this.address,
-          number: this.number
-        })
+        const response = await axios({
+          method: "post",
+          withCredentials: false,
+          url: "https://cursova-prod.vercel.app:5000",
+          params: {
+            name: this.name,
+            address: this.address,
+            number: this.number
+          }
+        });
         console.log(response);
         this.openModal();
         this.clear();

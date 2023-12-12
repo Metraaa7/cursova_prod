@@ -42,7 +42,16 @@ app.post('/', async(req, res) => {
 
 app.get('/', async(req, res) => {
     try {
-        res.json({message: 'OK'});
+        const contacts = await Contacts.find();
+        res.json({status: '200', count: contacts.length-1, data: contacts.map( item =>{
+         return {
+            name: item.name ?? '',
+            number: item.number?? '',
+            address: item.address?? '',
+            created_at: item.created_at ?? '',
+        };   
+        })  
+    });
     } catch (e) {
         res.json(e);
     }
