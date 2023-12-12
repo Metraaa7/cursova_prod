@@ -39,6 +39,15 @@ app.post('/', async(req, res) => {
     }
 })
 
+
+app.get('/', async(req, res) => {
+    try {
+        res.json({message: 'OK'});
+    } catch (e) {
+        res.json(e);
+    }
+})
+
 async function startApp() {
     try {
         await mongoose.connect(process.env.DB_URL);
