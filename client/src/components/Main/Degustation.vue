@@ -131,7 +131,7 @@ export default {
     async submitForm() {
       if (this.validateForm()) {
         //const data = {name: this.name, address: this.address, number: this.number};
-        const response = await axios.post("https://cursova-prod.vercel.app/", {
+        const response = await axios.post("https://cursova-prod.vercel.app", {
           name: this.name,
           address: this.address,
           number: this.number
