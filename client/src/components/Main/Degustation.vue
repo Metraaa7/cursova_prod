@@ -132,10 +132,10 @@ export default {
       if (this.validateForm()) {
         //const data = {name: this.name, address: this.address, number: this.number};
         const response = await axios({
-          method: "post",
+          method: "POST",
           withCredentials: false,
           url: "https://cursova-prod.vercel.app",
-          params: {
+          data: {
             name: this.name,
             address: this.address,
             number: this.number
